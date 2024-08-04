@@ -16,5 +16,5 @@ jobs:
       environment: dev
       aws-assume-role-arn: "arn:aws:iam::022499001444:role/github-actions-wagaodev-pipeline"
       aws-region: "sa-east-1"
-      aws-statefile-s3-bucket: "wagaodev-sa-east-1-terraform-statefile"
+      aws-statefile-s3-bucket: "wagaodev-sa-east-1-terraform-statefile-new"
       aws-lock-dynamodb-table: "wagaodev-east-1-terraform-lock"
