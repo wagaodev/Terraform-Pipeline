@@ -1,1 +1,1 @@
-bucket_name="dev-sa-east-1-wagaodev-statefile"
+bucket_name="dev-sa-east-1-wagaodev-statefile-new"
