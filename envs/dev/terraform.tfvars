@@ -1,1 +1,1 @@
-bucket_name="dev-sa-east-1-wagaodev-statefile-new"
+bucket_name="dev-sa-east-1-terraform-statefile-new"
